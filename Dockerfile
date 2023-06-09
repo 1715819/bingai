@@ -1,1 +1,1 @@
-FROM adams549659584/go-proxy-bingai
+FROM xyouxiu6/bingai:v1.8.7
